@@ -1,0 +1,72 @@
+/* ********************************* css base simbiosys™ ************************** */
+/* positions */
+/* line 3, ../sass/_simbiosys.scss */
+.float_left {
+  float: left;
+}
+
+/* line 6, ../sass/_simbiosys.scss */
+.float_right {
+  float: right;
+}
+
+/* line 9, ../sass/_simbiosys.scss */
+.clear_both {
+  clear: both;
+}
+
+/* line 12, ../sass/_simbiosys.scss */
+.overflow_hidden {
+  overflow: hidden;
+}
+
+/* line 15, ../sass/_simbiosys.scss */
+.display_block {
+  display: block;
+}
+
+/* line 18, ../sass/_simbiosys.scss */
+.display_inline {
+  display: inline;
+}
+
+/* line 21, ../sass/_simbiosys.scss */
+.display_none {
+  display: none;
+}
+
+/* line 24, ../sass/_simbiosys.scss */
+.text_align_left {
+  text-align: left;
+}
+
+/* line 27, ../sass/_simbiosys.scss */
+.text_align_center {
+  text-align: center;
+}
+
+/* line 30, ../sass/_simbiosys.scss */
+.text_align_right {
+  text-align: right;
+}
+
+/* line 33, ../sass/_simbiosys.scss */
+.relative {
+  position: relative;
+}
+
+/* END positions */
+/* text */
+/* line 39, ../sass/_simbiosys.scss */
+.uppercase {
+  text-transform: uppercase;
+}
+
+/* line 42, ../sass/_simbiosys.scss */
+.lowercase {
+  text-transform: lowercase;
+}
+
+/* END text */
+/* END opentype */
+/* ******************************* END css base simbiosys™ ************************** */
