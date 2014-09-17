@@ -3,15 +3,17 @@ module.exports = function(grunt) {
   // Project configuration.
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
-    uglify: {
-      options: {
-        banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
-      },
-      build: {
-        src: 'js/*.js',
-        dest: 'build/output.min.js'
-      }
-    }
+	uglify: {
+		dist: {
+			options: {
+				sourceMap: true,
+				banner: '/*! MyLib.js 1.0.0 | Aurelio De Rosa (@AurelioDeRosa) | MIT Licensed */'
+			},
+			files: {
+				'dest/output.min.js': ['src/*.js'],
+			}
+		}
+	}
   });
 
   // Load the plugin that provides the "uglify" task.

@@ -1,5 +1,5 @@
 {
-  "name": "Initsim",
+  "name": "initsim",
   "version": "0.0.8",
   "devDependencies": {
     "grunt": "~0.4.5",
