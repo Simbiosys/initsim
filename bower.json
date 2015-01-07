@@ -1,10 +1,7 @@
 {
   "name": "initsim",
-<<<<<<< HEAD
   "version": "0.1",
-=======
   "version": "0.8",
->>>>>>> origin/master
   "main": "index.html",
   "ignore": [
     "**/.*",
