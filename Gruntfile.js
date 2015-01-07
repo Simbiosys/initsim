@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 module.exports = function(grunt) {
 
   // Project configuration.
@@ -78,7 +77,7 @@ grunt.loadNpmTasks('grunt-newer');
   grunt.registerTask('default', ['jshint','newer:uglify','newer:sass','newer:imagemin','newer:cssmin']);
 
 };
-=======
+
 module.exports = function(grunt) {
 
   // Project configuration.
