@@ -10,6 +10,6 @@
     "grunt-contrib-cssmin": "~0.10.0",
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-newer": "~0.7.0",
-    "grunt-contrib-concat":"~0.4.0",
+    "grunt-contrib-concat":"~0.4.0"
   }
 }
