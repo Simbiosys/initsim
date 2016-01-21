@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 {
-  "directory": "prueba"
+  "directory": "js/vendor"
 }
-=======
-{
-  "directory": "assets"
-}
->>>>>>> origin/master
